@@ -1,0 +1,3 @@
+{
+  "dbconnection": "mongodb://localhost/chat"
+}
